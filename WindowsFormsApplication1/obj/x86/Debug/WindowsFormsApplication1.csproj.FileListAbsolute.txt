@@ -1,0 +1,281 @@
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\1053449\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\system.data.sqlite.dll
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\1053449\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\1053449\Desktop\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1053449\Desktop\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Desktop\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+E:\soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+E:\soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+E:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+E:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+E:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+E:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+D:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+D:\soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+D:\soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+D:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+D:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+D:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+D:\soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Miguel Oviedo\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+E:\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+E:\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\1053449\Desktop\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ver.resources
+G:\New folder\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\New folder\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ver.resources
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\luis\Desktop\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.score.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.score.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ver.resources
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Hato Nuevo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.score.resources
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ver.resources
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Miguel Oviedo\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Elegir.resources
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.score.resources
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ver.resources
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\1053633\Desktop\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.juegos_jugados.resources
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Juegos.resources
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Penales.resources
+C:\Users\Hato Nuevo\Desktop\Proyecto\Joan\Proyecto\Soccer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Ayuda.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Ayuda.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Juegos.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Penales.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.juegos_jugados.resources
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Hato Nuevo\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\Game.cs
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\Player.cs
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\Team.cs
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Ayuda.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Juegos.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Penales.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.juegos_jugados.resources
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\luis\Desktop\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\2\desk\Re-Futbol\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\2\desk\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\2\desk\Re-Futbol\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
